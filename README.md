@@ -1,5 +1,4 @@
 ![](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-### Welcome to my GitHub profile!!  :D
 
 <!--
 **kima-92/kima-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Wilma and I'm looking for more ways to sharpen my skills in iOS, got suggestions? Reach out! 😁
+Hi I'm Wilma! I'm an iOS Software Engineer with a passion for team collaboration and clean code. Look me up in [LinkedIn](https://www.linkedin.com/in/wilmari-rodriguez/) for more info, or simply reach out!
 
-- 🔭 I’m currently working on an iOS Twitter clone app
-- 🌱 I’m currently learning SwiftUI
-- 🤔 I’m looking for help with Core Data
+- 🔭 I’m currently working on SwiftUI
+- 🤔 I’ll soon start a refresher in Core Data
 - 💬 Ask me about Hamilton
 - 📫 How to reach me: [wilma_rodriguez@fastmail.com](mailto:wilma_rodriguez@fastmail.com)
 - 😄 Pronouns: She/Her
